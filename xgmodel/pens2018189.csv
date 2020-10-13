@@ -1,0 +1,10 @@
+id,duration,distance,build_up_duration,shot_technique_half_volley,shot_technique_lob,shot_technique_normal,shot_open_goal,pass_height_name,pass_cut_back,pass_through_ball,follows_goalkeeper,follows_dribble,pass_cross,goal,player_name,team_name,match_id,x_loc,y_loc,pass_player_name,xg,xa
+2554dd62-1369-4ffa-b679-3a5d430b10eb,0.6836,12.000416659433121,0.0,0,0,1,,,,,0,0,,1,Luis Alberto Suárez Díaz,Barcelona,16275,108.0,39.9,,0.8888888888888888,0
+f81d7b0d-7c4b-45a8-a799-b69ca7f86007,0.32198699999999997,12.0,0.0,0,0,1,,,,,0,0,,1,Lionel Andrés Messi Cuccittini,Barcelona,16157,108.0,40.0,,0.8888888888888888,0
+2259ddf0-a25e-4b9f-be83-8aecc1532bbd,0.7574,11.900420160649796,0.0,0,0,1,,,,,0,0,,1,Lionel Andrés Messi Cuccittini,Barcelona,16205,108.1,40.1,,0.8888888888888888,0
+2c80f986-8c0d-4e80-9cfb-8b2ba6f1ac0b,0.707958,11.900420160649796,0.0,0,0,1,,,,,0,0,,1,Lionel Andrés Messi Cuccittini,Barcelona,16056,108.1,40.1,,0.8888888888888888,0
+dfda6d11-87fe-4657-b64f-ae6766cf9e1e,0.39021999999999996,12.0,0.0,0,0,1,,,,,0,0,,1,Lionel Andrés Messi Cuccittini,Barcelona,16182,108.0,40.0,,0.8888888888888888,0
+eda24343-f168-464a-b1dc-ec736b723f25,0.327656,11.900420160649796,0.9014,0,0,1,,,,,1,0,,0,Lionel Andrés Messi Cuccittini,Barcelona,16182,108.1,40.1,,0.8888888888888888,0
+a8dd92f9-9e3b-499e-8a09-db8d1532152a,0.522165,11.900420160649796,0.0,0,0,1,,,,,0,0,,1,Daniel Parejo Muñoz,Valencia,16157,108.1,40.1,,0.8888888888888888,0
+5546b125-f283-4645-8b9b-072b6d65457b,0.7696729999999999,11.900420160649796,0.0,0,0,1,,,,,0,0,,1,Luis Alberto Suárez Díaz,Barcelona,16029,108.1,40.1,,0.8888888888888888,0
+04ae75b2-26c4-4865-9cb0-2efcdcd075d7,0.4784,11.900420160649796,0.0,0,0,1,,,,,0,0,,1,Luis Alberto Suárez Díaz,Barcelona,15973,108.1,40.1,,0.8888888888888888,0
